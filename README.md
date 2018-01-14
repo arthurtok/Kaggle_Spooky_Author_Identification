@@ -9,3 +9,16 @@ link to the Kaggle competition: https://www.kaggle.com/c/spooky-author-identific
 Entered under the Kaggle compeition name of "Anisotropic": https://www.kaggle.com/c/spooky-author-identification/leaderboard
 
 
+## Requirements
+
+Newer / older versions of the following packages should theoretically work fine:
+
+python 3.6
+
+numpy 1.13.3
+
+pandas 0.20.3
+
+sklearn 0.19.1
+
+xgboost 0.6
